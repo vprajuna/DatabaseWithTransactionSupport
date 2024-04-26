@@ -19,6 +19,8 @@ How this assignment should be modified in order to become an “official” assi
 
     Although the instructions specify a certain method must return null, it does not specify how to handle those exceptions. 
     Because the code throws an exception, it causes the program to discontinue and the rest of the functionality does not occur. 
-    Therefore, having a guideline for a try-cstch block or how to handle the exception will help students run and test their program easily. 
-    Additionally, the assignment could have two extra methods like print the database's contents and clear the database's contents, which will help in an "official" assignment because there will be more functionalities to complete than just the ones required for this assignment.
-    Lastly, having the description of each function right under the name of the function in the guidelines will help keep the project spec document organized. 
+    Therefore, having a guideline for a try-cstch block or how to handle the exception will help students run and test their 
+    program easily. Additionally, the assignment could have two extra methods like print the database's contents and clear the 
+    database's contents, which will help in an "official" assignment because there will be more functionalities to complete 
+    than just the ones required for this assignment. Lastly, having the description of each function right under the name 
+    of the function in the guidelines will help keep the project spec document organized. 
